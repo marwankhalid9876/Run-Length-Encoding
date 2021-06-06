@@ -7,7 +7,6 @@ import java.awt.image.Raster;
 
 import javax.imageio.ImageIO; 
 
-
 public class RunLengthCode {
 
 	private static String ComputeCode(int[][] imgArr){
